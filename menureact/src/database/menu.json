@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Soto",
+      "img": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/17043644/Praktis-dan-Simpel-Ini-Resep-Soto-Ayam-Lamongan-yang-Menggugah-Selera-.jpg.webp",
+      "price": "14000",
+      "description": "Soto adalah makanan khas Indonesia seperti sop yang terbuat dari kaldu daging dan sayuran. Daging yang paling sering digunakan adalah daging sapi dan daging ayam, tetapi ada pula yang menggunakan daging babi, daging kuda atau daging kambing."
+    },
+    {
+      "id": "2",
+      "name": "Ayam Geprek",
+      "img": "https://awsimages.detik.net.id/community/media/visual/2022/01/12/resep-ayam-geprek-jogja-1_43.jpeg?w=600&q=90",
+      "price": "15000",
+      "description": "Ayam geprek adalah makanan ayam goreng tepung khas Indonesia yang diulek atau dilumatkan bersama sambal bajak. Sebagian besar sumber menyebut bahwa ayam geprek berasal dari Kota Yogyakarta. Kini, ayam geprek telah menjadi hidangan populer yang dapat ditemukan di hampir semua kota besar di Indonesia."
+    },
+    {
+      "id": "3",
+      "name": "Mi Ayam",
+      "img": "https://awsimages.detik.net.id/community/media/visual/2023/05/22/resep-mie-ayam-sederhana-ala-rumahan_43.jpeg?w=1200",
+      "price": "10000",
+      "description": "Mi ayam adalah hidangan khas Indonesia yang terbuat dari mi gandum yang dibumbui dengan daging ayam yang biasanya dipotong dadu. Hidangan ini banyak terpengaruh dengan teknik penyajian kuliner yang digunakan dalam hidangan Tionghoa. Di Indonesia, mi ayam merupakan hidangan Tionghoa-Indonesia yang sangat terkenal. "
+    },
+    {
+      "id": "4",
+      "name": "Nasi Goreng",
+      "img": "https://img.kurio.network/ewrCJ9eRNpljU-80vrqWDQkN7o4=/1200x675/filters:quality(80)/https://kurio-img.kurioapps.com/20/10/10/a7e9eaa0-1c22-42b0-a11f-0a5ad1d30126.jpeg",
+      "price": "14000",
+      "description": "Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak goreng, margarin, atau mentega. Biasanya ditambah dengan kecap manis, bawang merah, bawang putih, asam jawa, lada dan bahan lainnya; seperti telur, daging ayam, dan kerupuk."
+    },
+    {
+      "id": "5",
+      "name": "Kwetiauw",
+      "img": "https://awsimages.detik.net.id/community/media/visual/2023/10/18/resep-kwetiau-goreng-ayam-suwir_43.jpeg?w=600&q=90",
+      "price": "14000",
+      "description": "Kwetiau goreng adalah kwetiau yang digoreng yang merupakan masakan Tionghoa Indonesia, itu adalah hidangan mie yang digoreng yang beraroma dan pedas yang umum dijumpai di Indonesia. Mi ini memiliki tekstur yang lembut dan kenyal, yang membuatnya cocok untuk proses penggorengan."
+    },
+    {
+      "id": "6",
+      "name": "Pecel",
+      "img": "https://cdn1-production-images-kly.akamaized.net/UYO1ky5-tuWantT7-0ALnRm01yU=/0x185:5472x3269/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4318427/original/012873500_1675915767-shutterstock_796820407.jpg",
+      "price": "14000",
+      "description": "Pecel adalah makanan yang terdiri atas sayuran rebus, seperti kacang panjang, bayam, taoge yang disiram dengan kuah sambal kacang dan sebagainya. Pecel merupakan penganan khas suku Jawa yang berasal dari Daerah Istimewa Yogyakarta dan sudah ada sejak abad ke-9 masehi."
+    },
+    {
+      "id": "7",
+      "name": "Bakso",
+      "img": "https://cdn0-production-images-kly.akamaized.net/VTDiAj5ffuLCm1CEjR9VExObwkQ=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2763419/original/071857300_1553761217-shutterstock_1148354906.jpg",
+      "price": "14000",
+      "description": "Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang bahkan daging kerbau."
+    },
+    {
+      "id": "b6bc",
+      "name": "aa",
+      "price": "34000",
+      "imageLink": "aaaaaaaa",
+      "description": "aaaaaaaaa"
+    }
+  ]
+}
