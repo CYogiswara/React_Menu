@@ -1,0 +1,101 @@
+{
+  "menus": [
+    {
+      "id": "1",
+      "title": "Nasi ",
+      "content": "Enak",
+      "img": "https://cdn1-production-images-kly.akamaized.net/LDRjBxjUH3gyrzEAUFrCi_XisTs=/0x148:1920x1230/800x450/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg",
+      "rating": 4,
+      "isFavorite" : true,
+      "type": "sarapan"
+    },
+    {
+      "id": "3",
+      "title": "Es Teh",
+      "img": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+      "content": "lorem ipsum",
+      "rating": 5,
+      "type": "drink",
+      "isFavorite": true
+    },
+    {
+      "id": "1453",
+      "title": "baso",
+      "img": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/05/Resep-Bakso-malang.jpg?fit=1920%2C1401&ssl=1",
+      "rating": 2,
+      "type": "food",
+      "isFavorite": true,
+      "content": "baso bulat"
+    },
+    {
+      "id": "bcc3",
+      "title": "aaaaaaaa",
+      "img": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/e4uy88JKbOpcdoJ3EXJO.webp",
+      "rating": 3,
+      "type": "food",
+      "content": "aaaaaaaa"
+    },
+    {
+      "id": "c1aa",
+      "title": "aaaaaa",
+      "rating": "Not rated",
+      "type": "food",
+      "content": "aaaaa"
+    },
+    {
+      "id": "3554",
+      "title": "kirby",
+      "rating": 5,
+      "type": "drink",
+      "content": "kirby",
+      "img": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "8f95",
+      "title": "ahsjshfsfjaj",
+      "rating": 5,
+      "type": "food",
+      "content": "aaaaaaaaaaa",
+      "img": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/hRmrU0qHnXMj5CZ3qLvt.webp"
+    },
+    {
+      "id": "b470",
+      "title": "aaaaaaaaa",
+      "rating": 5,
+      "type": "food",
+      "content": "enak coy",
+      "img": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/hRmrU0qHnXMj5CZ3qLvt.webp"
+    },
+    {
+      "id": "1bf0",
+      "title": "aaaaaaaa",
+      "rating": "Not rated",
+      "type": "food",
+      "content": "aaaaaa",
+      "img": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/hRmrU0qHnXMj5CZ3qLvt.webp"
+    }
+  ],
+  "promo": [
+    {
+      "id": "1",
+      "title": "Drive Thru Sticker",
+      "img": "https://d2vuyvo9qdtgo9.cloudfront.net/promos/January2024/PxOZ9UOALZ6jyMLrCSi7.webp",
+      "desc": "Gratis Tongkat KUE (Kartu Uang Elektronik)",
+      "expired": "Berlaku Hingga 2 September 2023"
+    },
+    {
+      "id": "2",
+      "title": "SUPER DEAL Diskon 40%",
+      "img": "https://d2vuyvo9qdtgo9.cloudfront.net/promos/February2024/ePdxvRqVbWKLnJs12mPf.webp",
+      "desc": "2 - 20 Februaru di aplikasi McDonald's",
+      "expired": "Berlaku Hingga 30 Desember 2024"
+    },
+    {
+      "id": "3",
+      "title": "Paket HeBat (Hemat Banget)",
+      "img": "https://d2vuyvo9qdtgo9.cloudfront.net/promos/February2024/uXrfv3tGAMw9maI7HUwC.webp",
+      "desc": "",
+      "expired": "Berlaku Hingga 17 Mei 2024"
+    }
+  ]
+}
